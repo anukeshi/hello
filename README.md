@@ -5,3 +5,4 @@ It's about saying Hello.
 Thanks
 bye bye
 wow this is so cool haha
+all right
