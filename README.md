@@ -9,3 +9,4 @@ all right
 
 All is well
 thanks
+bye
